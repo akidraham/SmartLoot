@@ -1,6 +1,6 @@
 SmartLoot = {};
 
-SmartLoot.Version = "1.1";
+SmartLoot.Version = "1.2";
 
 SmartLoot.Roll = {
 	Pass = 0;
